@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Product-Rvw-UC11/1.0.0": {
+        "runtime": {
+          "Product-Rvw-UC11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Product-Rvw-UC11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
