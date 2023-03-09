@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\ProductReviewManagement\ProductReviewManagement\ProductRvw-UC10\ProductRvw-UC10\bin\Debug\net6.0\ProductRvw-UC10.exe
+C:\Users\USER\source\repos\ProductReviewManagement\ProductReviewManagement\ProductRvw-UC10\ProductRvw-UC10\bin\Debug\net6.0\ProductRvw-UC10.deps.json
+C:\Users\USER\source\repos\ProductReviewManagement\ProductReviewManagement\ProductRvw-UC10\ProductRvw-UC10\bin\Debug\net6.0\ProductRvw-UC10.runtimeconfig.json
+C:\Users\USER\source\repos\ProductReviewManagement\ProductReviewManagement\ProductRvw-UC10\ProductRvw-UC10\bin\Debug\net6.0\ProductRvw-UC10.dll
+C:\Users\USER\source\repos\ProductReviewManagement\ProductReviewManagement\ProductRvw-UC10\ProductRvw-UC10\bin\Debug\net6.0\ProductRvw-UC10.pdb
+C:\Users\USER\source\repos\ProductReviewManagement\ProductReviewManagement\ProductRvw-UC10\ProductRvw-UC10\obj\Debug\net6.0\ProductRvw-UC10.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ProductReviewManagement\ProductReviewManagement\ProductRvw-UC10\ProductRvw-UC10\obj\Debug\net6.0\ProductRvw-UC10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ProductReviewManagement\ProductReviewManagement\ProductRvw-UC10\ProductRvw-UC10\obj\Debug\net6.0\ProductRvw-UC10.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ProductReviewManagement\ProductReviewManagement\ProductRvw-UC10\ProductRvw-UC10\obj\Debug\net6.0\ProductRvw-UC10.AssemblyInfo.cs
+C:\Users\USER\source\repos\ProductReviewManagement\ProductReviewManagement\ProductRvw-UC10\ProductRvw-UC10\obj\Debug\net6.0\ProductRvw-UC10.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ProductReviewManagement\ProductReviewManagement\ProductRvw-UC10\ProductRvw-UC10\obj\Debug\net6.0\ProductRvw-UC10.dll
+C:\Users\USER\source\repos\ProductReviewManagement\ProductReviewManagement\ProductRvw-UC10\ProductRvw-UC10\obj\Debug\net6.0\refint\ProductRvw-UC10.dll
+C:\Users\USER\source\repos\ProductReviewManagement\ProductReviewManagement\ProductRvw-UC10\ProductRvw-UC10\obj\Debug\net6.0\ProductRvw-UC10.pdb
+C:\Users\USER\source\repos\ProductReviewManagement\ProductReviewManagement\ProductRvw-UC10\ProductRvw-UC10\obj\Debug\net6.0\ProductRvw-UC10.genruntimeconfig.cache
+C:\Users\USER\source\repos\ProductReviewManagement\ProductReviewManagement\ProductRvw-UC10\ProductRvw-UC10\obj\Debug\net6.0\ref\ProductRvw-UC10.dll
